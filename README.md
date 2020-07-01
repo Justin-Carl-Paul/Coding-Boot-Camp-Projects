@@ -9,3 +9,8 @@ Gerald Hunter of Monsters is a simple pygame program. You play as a powerful wiz
 
 ## Task Manager
 The Task manager program allows users to logo onto it's main menu via the console. The users can then add tasks, edit tasks and view tasks. Admin users can add new users.
+
+## Construction Company Project Manager
+This program is still in development and is a project manager for a construction company. The task focuses on OOP. 
+The program contains projects, customers, architects and contractors as classes. The user will then manipulate these classes.
+
