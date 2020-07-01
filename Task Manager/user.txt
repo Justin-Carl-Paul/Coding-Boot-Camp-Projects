@@ -1,0 +1,7 @@
+dog, doggo
+admin, adm1n
+bird, birdo
+frog, froggo
+duck, ducko
+frodo, baggins
+gollum, precious

@@ -1,0 +1,16 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 20 Oct 2019, Yes
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+dog, go for a walk, go for a long walk on the beach with your owner, 19 Jun 2020, 25 Jan 2020, Yes
+dog, buy bird seed, go to the store and buy some fresh seed, 24 Jun 2020, 25 Jun 2017, Yes
+bird, fly home , fly home for winter, 24 Jun 2020, 25 Aug 2020, Yes
+frog, swim, go for a swim, 24 Jun 2020, 11 Sep 2020, No
+frog, jump, jump around, 24 Jun 2020, 23 Jan 2020, Yes
+frog, green, be green for a while, 24 Jun 2020, 14 Oct 2019, No
+dog, be lizard, be a lizard for the day, 24 Jun 2020, 12 Mar 2019, No
+dog, go for walkies, go for a lovely walk, 24 Jun 2020, 25 Oct 2025, No
+duck, fly, fly north for the winter, 25 Jun 2020, 25 Dec 2020, No
+duck, swim, swim on the lake for fun, 25 Jun 2020, 12 Jan 2019, No
+frodo, walk to mordor, destroy the ring, 25 Jun 2020, 23 Sep 1000, Yes
+frodo, get the precious, get back my precious, 25 Jun 2020, 12 Jan 1000, No
+gollum, steal , steal back the precious from frodo, 25 Jun 2020, 12 Jan 1000, No
+pigeon, steal , steal back the precious from frodo, 25 Jun 2020, 12 Jan 1000, No

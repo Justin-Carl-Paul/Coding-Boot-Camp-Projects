@@ -1,0 +1,7 @@
+_____ALL TASK DETAILS_____
+Registered tasks:				16 
+Completed tasks:				6 
+Uncompleted tasks:				7 
+Tasks that are overdue:			10 
+Percentage tasks incomplete:	62.5% 
+Percentage overdue:				43.75% 

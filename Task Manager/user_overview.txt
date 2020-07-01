@@ -1,0 +1,47 @@
+
+The total number of registered users is:		7
+The total number of admins is:					2
+The total number of registered tasks is:		16
+
+_____User: dog_____ 
+Total tasks assigned to user:					4 
+Percentage of all tasks owned:					25.0% 
+Percentage of assigned tasks completed:			50.0% 
+Percentage of assigned tasks to be completed:	50.0% 
+Percentage of assigned tasks overdue:			25.0% 
+_____User: admin_____ 
+Total tasks assigned to user:					2 
+Percentage of all tasks owned:					12.5% 
+Percentage of assigned tasks completed:			50.0% 
+Percentage of assigned tasks to be completed:	50.0% 
+Percentage of assigned tasks overdue:			50.0% 
+_____User: bird_____ 
+Total tasks assigned to user:					1 
+Percentage of all tasks owned:					6.25% 
+Percentage of assigned tasks completed:			100.0% 
+Percentage of assigned tasks to be completed:	0.0% 
+Percentage of assigned tasks overdue:			0.0% 
+_____User: frog_____ 
+Total tasks assigned to user:					3 
+Percentage of all tasks owned:					18.75% 
+Percentage of assigned tasks completed:			33.33% 
+Percentage of assigned tasks to be completed:	66.67% 
+Percentage of assigned tasks overdue:			33.33% 
+_____User: duck_____ 
+Total tasks assigned to user:					2 
+Percentage of all tasks owned:					12.5% 
+Percentage of assigned tasks completed:			0.0% 
+Percentage of assigned tasks to be completed:	100.0% 
+Percentage of assigned tasks overdue:			50.0% 
+_____User: frodo_____ 
+Total tasks assigned to user:					2 
+Percentage of all tasks owned:					12.5% 
+Percentage of assigned tasks completed:			50.0% 
+Percentage of assigned tasks to be completed:	50.0% 
+Percentage of assigned tasks overdue:			50.0% 
+_____User: gollum_____ 
+Total tasks assigned to user:					1 
+Percentage of all tasks owned:					6.25% 
+Percentage of assigned tasks completed:			0.0% 
+Percentage of assigned tasks to be completed:	100.0% 
+Percentage of assigned tasks overdue:			100.0% 
