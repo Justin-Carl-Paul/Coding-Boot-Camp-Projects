@@ -1,0 +1,108 @@
+
+101
+Apartment Block Paul
+Apartment Block
+421 Church Street
+erf 789
+0.0
+25000.0
+25000.0
+13/11/2019
+09/47/2020
+true
+Justin
+Paul
+0832557884
+justin@gmail.com
+421 street drive
+Josh
+Cullins
+0834140861
+josh@gmail.com
+452 street avenue
+Dave
+Anderson
+0824532104
+Dave@gmail.com
+456 Goat Street
+
+202
+Small House Walker
+Small House
+456 Church Street
+erf456
+5000.0
+3000.0
+2000.0
+20/08/2025
+17/08/2020
+true
+Paul
+Walker
+0832557884
+Paul@gmail.com
+street drive 
+Vinnie
+Diesel
+0832557884
+architectMan@gmail.com
+456 honey drive
+Joe
+Han
+0834125698
+contractor@gmail.com
+456 Loop Street
+
+303
+Mall Gates
+Mall
+Century City Drive
+erf88987
+50000.0
+10000.0
+40000.0
+25/12/2019
+Active
+false
+Bill
+Gates
+0232158796
+bill@gates.com
+microsoft road
+henry
+Cavill
+0236578952
+henry@gmail.com
+Hollywood boulevard 55
+Drake
+Pine
+08321256987
+drake@yahoo.com
+groove avenue 45
+
+404
+Stadium Beans
+Stadium
+423 Coyote
+Erf45678
+25000.0
+0.0
+25000.0
+12/12/2025
+Active
+false
+Josh
+Beans
+0832557884
+josh@gmail.com
+78 Groover
+Hook
+Bill
+0832557884
+hook@gmail.com
+ghoort
+Him
+Droopler
+0832557884
+drooper@gmail.com
+ghoop Drive 45
