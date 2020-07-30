@@ -14,5 +14,5 @@ The Task manager program allows users to logo onto it's main menu via the consol
 This program is still in development and is a project manager for a construction company. The task focuses on OOP. 
 The program contains projects, customers, architects and contractors as classes. The user will then manipulate these classes.
 
-##e Book Keeper
+## e Book Keeper
 This is a simple application that allows the user to add books, remove books, update books and search for books on a mySQL database.
